@@ -1,0 +1,5 @@
+0,Esrom Zerai,Manager,USA,ES@gmail,079990999099,ID240980,975.0,0
+1,Esrom Zerai,Gold Memeber,Eri,EZ@gmail,07111111,ID448298,999899.0,0
+2,Nz Nz,Manager,DXB,Nz@gmail.com,0505050505,ID159060,100.0,500
+3,,Regular Member,,,,ID281306,0,0
+4,manager,Manager,23asdf,asdf3e123,sdf23,ID588206,0,0

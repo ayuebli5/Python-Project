@@ -1,0 +1,10 @@
+52.5 Deep Wash
+52.5 Deep Wash
+37.5 Regular Wash
+58.5 Engine Oiling
+58.5 Engine Oiling
+75.0 Steam Cleaning
+49.0 Deep Wash
+49.0 Deep Wash
+35.0 Regular Wash
+100.0 Steam Cleaning
